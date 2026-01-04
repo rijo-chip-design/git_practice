@@ -4,3 +4,4 @@ Hello Git
 3rd addition
 now going online
 new branch first commit
+conflict one
