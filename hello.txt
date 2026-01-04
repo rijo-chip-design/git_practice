@@ -5,3 +5,4 @@ Hello Git
 now going online
 new branch first commit
 first addition after merging
+conflict one
